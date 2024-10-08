@@ -58,6 +58,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 import mlflow
+
 mlflow.set_experiment("My_mlflow_exp")
 # Train and log RandomForest model
 def train_and_log_model():
@@ -74,12 +75,13 @@ def train_and_log_model():
         mlflow.log_param("model", "RandomForestRegressor")
         mlflow.log_metric("mse", mse1)
         mlflow.log_metric("r2", r21)
-        mlflow.sklearn.log_model(model, "model")                                                                        mlflow.end_run()
+        mlflow.sklearn.log_model(model, "model")
+    mlflow.end_run()
 
 # Train and log Linear Regression model
 def train_and_log_model2():
     with mlflow.start_run() as run:
-        model = LinearRegression() 
+        model = LinearRegression()
         model.fit(X_train, y_train)
         y_pred = model.predict(X_test)
         mse = mean_squared_error(y_test, y_pred)
@@ -97,4 +99,3 @@ def train_and_log_model2():
 # Execute the functions
 train_and_log_model()
 train_and_log_model2()
-
