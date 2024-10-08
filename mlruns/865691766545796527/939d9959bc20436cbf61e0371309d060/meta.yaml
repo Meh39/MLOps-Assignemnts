@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/MLOpsNewClasswork/classwork4/MLOps-Assignemnts/mlruns/865691766545796527/939d9959bc20436cbf61e0371309d060/artifacts
+end_time: 1728362500709
+entry_point_name: ''
+experiment_id: '865691766545796527'
+lifecycle_stage: active
+run_id: 939d9959bc20436cbf61e0371309d060
+run_name: bald-panda-493
+run_uuid: 939d9959bc20436cbf61e0371309d060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728362488586
+status: 4
+tags: []
+user_id: root

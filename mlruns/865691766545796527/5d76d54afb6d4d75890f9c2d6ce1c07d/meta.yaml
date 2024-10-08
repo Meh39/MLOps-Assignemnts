@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/MLOpsNewClasswork/classwork4/MLOps-Assignemnts/mlruns/865691766545796527/5d76d54afb6d4d75890f9c2d6ce1c07d/artifacts
+end_time: 1728362797268
+entry_point_name: ''
+experiment_id: '865691766545796527'
+lifecycle_stage: active
+run_id: 5d76d54afb6d4d75890f9c2d6ce1c07d
+run_name: efficient-moth-686
+run_uuid: 5d76d54afb6d4d75890f9c2d6ce1c07d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728362791763
+status: 3
+tags: []
+user_id: root

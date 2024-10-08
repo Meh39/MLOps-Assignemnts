@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/MLOpsNewClasswork/classwork4/MLOps-Assignemnts/mlruns/865691766545796527/af59dfd594ee44f690f69c199e1c1cc9/artifacts
+end_time: 1728362791760
+entry_point_name: ''
+experiment_id: '865691766545796527'
+lifecycle_stage: active
+run_id: af59dfd594ee44f690f69c199e1c1cc9
+run_name: tasteful-lynx-16
+run_uuid: af59dfd594ee44f690f69c199e1c1cc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728362785237
+status: 3
+tags: []
+user_id: root

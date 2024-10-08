@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/MLOpsNewClasswork/classwork4/MLOps-Assignemnts/mlruns/865691766545796527/a87960da748445f0969fd4a912200c91/artifacts
+end_time: 1728362665798
+entry_point_name: ''
+experiment_id: '865691766545796527'
+lifecycle_stage: active
+run_id: a87960da748445f0969fd4a912200c91
+run_name: nebulous-chimp-308
+run_uuid: a87960da748445f0969fd4a912200c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728362657296
+status: 3
+tags: []
+user_id: root

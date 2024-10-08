@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728362668487
+current_stage: None
+description: null
+last_updated_timestamp: 1728362668487
+name: Random_Forest
+run_id: bd6382336cb64276a5b113ec98d2a2cd
+run_link: null
+source: file:///workspace/MLOpsNewClasswork/classwork4/MLOps-Assignemnts/mlruns/865691766545796527/bd6382336cb64276a5b113ec98d2a2cd/artifacts/Random_Forest
+status: READY
+status_message: null
+storage_location: file:///workspace/MLOpsNewClasswork/classwork4/MLOps-Assignemnts/mlruns/865691766545796527/bd6382336cb64276a5b113ec98d2a2cd/artifacts/Random_Forest
+user_id: null
+version: 1

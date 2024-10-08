@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728362791751
+current_stage: None
+description: null
+last_updated_timestamp: 1728362791751
+name: Linear_Regression
+run_id: af59dfd594ee44f690f69c199e1c1cc9
+run_link: null
+source: file:///workspace/MLOpsNewClasswork/classwork4/MLOps-Assignemnts/mlruns/865691766545796527/af59dfd594ee44f690f69c199e1c1cc9/artifacts/Linear_Regression
+status: READY
+status_message: null
+storage_location: file:///workspace/MLOpsNewClasswork/classwork4/MLOps-Assignemnts/mlruns/865691766545796527/af59dfd594ee44f690f69c199e1c1cc9/artifacts/Linear_Regression
+user_id: null
+version: 2
